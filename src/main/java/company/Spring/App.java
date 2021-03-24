@@ -7,6 +7,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("hellooo javaaa");
-        
+  int a= 10;
+        void doProcess(){
+       }
     }
 }
